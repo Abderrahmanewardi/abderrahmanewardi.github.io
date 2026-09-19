@@ -1,6 +1,8 @@
 ---
-pagetitle: "Abderrahmane Wardi | Professor & PhD Candidate"
-description-meta: "Academic website of Abderrahmane Wardi, Professor and PhD Candidate working in biomedical engineering, ECG signal processing, TinyML, embedded artificial intelligence, and embedded systems."
+pagetitle: "Abderrahmane Wardi | Electrical Engineering Professor & PhD Candidate"
+description: "Academic website of Abderrahmane Wardi, Professor of Electrical Engineering and Industrial Engineering Sciences and PhD Candidate at ENSAM, Mohammed V University in Rabat. Teaching and research activities include electrical engineering, embedded systems, signal processing, instrumentation, automation, biomedical engineering, TinyML, embedded AI, and intelligent systems."
+author: "Abderrahmane Wardi"
+lang: en
 toc: false
 ---
 
@@ -8,13 +10,13 @@ toc: false
 
 # Abderrahmane Wardi
 
-### Professor · PhD Candidate · Biomedical Engineering
+### Professor of Electrical Engineering · PhD Candidate
 
-I am **Abderrahmane Wardi**, a Professor of Industrial Engineering Sciences and a PhD candidate at **École Nationale Supérieure d'Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco**.
+I am **Abderrahmane Wardi**, a Professor of **Electrical Engineering and Industrial Engineering Sciences** and a PhD candidate at **École Nationale Supérieure d'Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco**.
 
-My academic work combines **engineering education, biomedical signal processing, embedded systems, TinyML, and artificial intelligence**.
+My academic background is primarily in **electrical engineering**, with teaching and technical activities spanning **embedded systems, signal processing, instrumentation, automation, electrical systems, and industrial engineering sciences**.
 
-My current research focuses on intelligent and resource-efficient systems for **ECG signal processing and classification**, particularly their deployment on embedded platforms.
+My doctoral research extends these engineering areas toward **biomedical applications**, particularly **ECG signal processing, intelligent biomedical instrumentation, TinyML, and embedded artificial intelligence**.
 
 ::: {.hero-buttons}
 [Teaching](teaching.qmd){.btn .btn-primary}
@@ -25,56 +27,96 @@ My current research focuses on intelligent and resource-efficient systems for **
 
 :::
 
-## Research Interests
+## Academic Areas
 
-- Biomedical Engineering
-- Biomedical Signal Processing
-- ECG Analysis and Classification
-- TinyML
-- Embedded Artificial Intelligence
-- Edge AI
+- Electrical Engineering
+- Industrial Engineering Sciences
 - Embedded Systems
-- Biomedical Instrumentation
+- Signal Processing
+- Instrumentation and Measurement
+- Automation and Control
+- Electronics
 - Internet of Things
+- Intelligent Systems
 
 ## Teaching
 
-I provide educational resources in electrical engineering and industrial engineering sciences, including course materials, tutorials, exercises, laboratory activities, and technical resources.
+My teaching activities focus on **electrical engineering and industrial engineering sciences**, including topics related to:
+
+- signal acquisition and processing;
+- sensors and instrumentation;
+- electronics;
+- automatic control;
+- embedded systems;
+- electrical systems;
+- industrial systems;
+- communication and information processing.
+
+This website provides course materials, tutorials, exercises, laboratory activities, technical documents, and educational resources for students.
 
 [Explore Teaching Resources](teaching.qmd){.btn .btn-primary}
 
-## Research & Projects
+## Research
 
-My research activities focus on intelligent biomedical systems and the deployment of lightweight machine-learning models on resource-constrained embedded platforms.
+My research activities are rooted in **electrical engineering, signal processing, embedded systems, and intelligent instrumentation**.
 
-Current topics include:
+My doctoral research particularly investigates the application of these engineering disciplines to **biomedical systems**, with current interests including:
 
-- TinyML for ECG beat classification
-- Embedded ECG monitoring
-- Biomedical signal processing
-- Intelligent biomedical instrumentation
-- Edge AI for healthcare applications
+- ECG signal processing and analysis;
+- embedded biomedical systems;
+- TinyML for biomedical applications;
+- embedded artificial intelligence;
+- intelligent biomedical instrumentation;
+- Edge AI;
+- IoT for healthcare.
 
 [Explore Research](research.qmd){.btn .btn-primary}
-[View Projects](projects.qmd){.btn .btn-outline-primary}
+
+## Research Projects
+
+Current and recent projects include the development of intelligent embedded systems for signal acquisition, processing, classification, and monitoring.
+
+These projects combine several areas of electrical engineering, including **electronics, embedded computing, digital signal processing, communication systems, instrumentation, and artificial intelligence**.
+
+[View Projects](projects.qmd){.btn .btn-primary}
 
 ## TikZ Gallery
 
-I also develop **LaTeX/TikZ technical graphics** for engineering education, scientific communication, and academic documentation.
+I develop **LaTeX/TikZ technical and scientific graphics** for engineering education, academic documentation, and scientific communication.
 
-The gallery includes diagrams related to electronics, sensors, instrumentation, signal processing, control systems, embedded systems, and biomedical engineering.
+The gallery includes diagrams related to:
+
+- Electronics
+- Electrical Engineering
+- Sensors and Instrumentation
+- Signal Processing
+- Control Systems
+- Embedded Systems
+- Industrial Systems
+- Biomedical Engineering
 
 [Explore TikZ Gallery](tikz.qmd){.btn .btn-primary}
 
-## Publications & Academic Activities
+## Publications
 
-My journal articles, conference papers, scientific communications, and other academic activities are presented in dedicated sections of this website.
+My peer-reviewed journal articles, conference papers, and scientific communications cover topics related to electrical engineering, embedded systems, biomedical applications, signal processing, and intelligent systems.
 
-[Publications](publications.qmd){.btn .btn-primary}
-[Academic Activities](activities.qmd){.btn .btn-outline-primary}
+[View Publications](publications.qmd){.btn .btn-primary}
+
+## Academic Activities
+
+My academic activities include scientific conferences, oral communications, workshops, training, teaching activities, and professional development.
+
+[Academic Activities](activities.qmd){.btn .btn-primary}
+
+## Curriculum Vitae
+
+My academic background, education, teaching experience, research activities, technical skills, and scientific work are presented in my curriculum vitae.
+
+[View Curriculum Vitae](cv.qmd){.btn .btn-primary}
 
 ## Contact
 
-For academic, research, teaching, or professional inquiries:
+For academic, research, teaching, scientific collaboration, or professional inquiries:
 
 [Contact](contact.qmd){.btn .btn-primary}
