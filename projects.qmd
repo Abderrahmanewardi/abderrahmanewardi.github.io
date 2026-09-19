@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+## Academic and Research Projects
+
+This section presents selected academic and research projects related to biomedical engineering, embedded systems, and artificial intelligence.
+
+## TinyML ECG Classification
+
+Development of a lightweight deep-learning model for ECG beat classification and deployment on embedded devices.
+
+Main topics:
+
+- ECG signal processing
+- Deep learning
+- TinyML
+- Model quantization
+- Embedded AI
+- ESP32-S3 deployment
+
+## Embedded ECG Monitoring
+
+Development and validation of an embedded IoT framework for ECG signal processing and monitoring.
+
+Main topics:
+
+- ECG acquisition
+- Digital signal processing
+- R-peak detection
+- Embedded systems
+- Internet of Things
+- Real-time monitoring
+
+## Biomedical Instrumentation
+
+Development of intelligent biomedical instrumentation combining sensors, signal acquisition, embedded processing, and artificial intelligence.

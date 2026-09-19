@@ -1,0 +1,31 @@
+---
+title: "Research"
+---
+
+## Research Overview
+
+My research activities focus on the development of intelligent biomedical systems combining **biomedical signal processing**, **embedded systems**, **TinyML**, and **artificial intelligence**.
+
+## Main Research Areas
+
+- Biomedical Engineering
+- ECG Signal Processing
+- TinyML
+- Embedded Artificial Intelligence
+- Edge AI
+- Embedded Systems
+- Internet of Things for Healthcare
+
+## Current Research
+
+### TinyML for ECG Classification
+
+Development of lightweight deep-learning models for ECG beat classification and their deployment on resource-constrained embedded devices.
+
+### Embedded ECG Monitoring
+
+Design and validation of embedded and IoT-based architectures for ECG acquisition, processing, analysis, and monitoring.
+
+### Intelligent Biomedical Instrumentation
+
+Development of smart biomedical instrumentation combining sensing, signal processing, embedded computing, and artificial intelligence.

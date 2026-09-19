@@ -1,0 +1,34 @@
+---
+title: "About"
+---
+
+## Abderrahmane Wardi
+
+I am a Professor of Industrial Engineering Sciences and a PhD candidate working in the field of biomedical engineering.
+
+My academic activities combine **teaching**, **scientific research**, **embedded systems**, **biomedical signal processing**, and **artificial intelligence**.
+
+## Academic Interests
+
+My main academic and research interests include:
+
+- Biomedical Engineering
+- ECG Signal Processing
+- TinyML
+- Embedded Artificial Intelligence
+- Embedded Systems
+- Biomedical Instrumentation
+- Internet of Things
+- Engineering Education
+
+## Teaching
+
+My teaching activities focus on electrical engineering, industrial engineering sciences, instrumentation, signal acquisition, signal processing, and embedded systems.
+
+## Research
+
+My doctoral research focuses on intelligent biomedical systems, particularly the processing and classification of ECG signals using lightweight artificial intelligence models suitable for embedded devices.
+
+## Academic Mission
+
+My objective is to combine teaching, research, and engineering practice to develop accessible and efficient solutions in biomedical engineering and intelligent embedded systems.

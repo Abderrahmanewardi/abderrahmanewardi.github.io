@@ -1,0 +1,24 @@
+---
+title: "Teaching"
+---
+
+## Teaching Activities
+
+This section provides course materials, tutorials, exercises, laboratory activities, and technical resources for students.
+
+## Courses
+
+### Acquisition – Traitement – Communication (ATC)
+
+Course materials for **2ème année STE**.
+
+Topics include:
+
+- Information acquisition
+- Sensors
+- Signal conditioning
+- Analog-to-digital conversion
+- Signal processing
+- Communication systems
+
+More detailed course pages will be added progressively.

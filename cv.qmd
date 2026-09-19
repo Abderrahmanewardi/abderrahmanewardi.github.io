@@ -1,0 +1,74 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Abderrahmane Wardi
+
+Professor of Industrial Engineering Sciences and PhD Candidate in Biomedical Engineering.
+
+## Academic Profile
+
+My academic interests focus on:
+
+- Biomedical Engineering
+- Biomedical Signal Processing
+- ECG Analysis
+- TinyML
+- Embedded Artificial Intelligence
+- Embedded Systems
+- Internet of Things
+
+## Education
+
+### PhD Candidate
+
+**École Nationale Supérieure d'Arts et Métiers (ENSAM)**  
+Mohammed V University in Rabat, Morocco
+
+Research area: Biomedical Engineering and intelligent embedded systems.
+
+### Agrégation in Electrical Engineering
+
+Specialization in Electrical Engineering and Industrial Engineering Sciences.
+
+### Master's Degree
+
+Automation, Signal Processing and Industrial Systems.
+
+### Bachelor's Degree
+
+Electrical Engineering and Automatic Control.
+
+## Teaching Experience
+
+Professor in Electrical Engineering and Industrial Engineering Sciences.
+
+Teaching activities include:
+
+- Acquisition systems
+- Signal processing
+- Sensors and instrumentation
+- Electrical engineering
+- Embedded systems
+- Industrial systems
+
+## Research Interests
+
+- TinyML for biomedical applications
+- ECG signal classification
+- Embedded AI
+- Biomedical instrumentation
+- Edge computing
+- IoT for healthcare
+
+## Publications and Conferences
+
+My journal articles, conference papers, and scientific communications are available on the [Publications](publications.qmd) page.
+
+## Research Projects
+
+Selected projects are available on the [Projects](projects.qmd) page.
+
+## Academic Activities
+
+Conferences, workshops, and academic activities are available on the [Academic Activities](activities.qmd) page.

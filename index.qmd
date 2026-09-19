@@ -1,0 +1,80 @@
+---
+pagetitle: "Abderrahmane Wardi | Professor & PhD Candidate"
+description-meta: "Academic website of Abderrahmane Wardi, Professor and PhD Candidate working in biomedical engineering, ECG signal processing, TinyML, embedded artificial intelligence, and embedded systems."
+toc: false
+---
+
+::: {.home-hero}
+
+# Abderrahmane Wardi
+
+### Professor · PhD Candidate · Biomedical Engineering
+
+I am **Abderrahmane Wardi**, a Professor of Industrial Engineering Sciences and a PhD candidate at **École Nationale Supérieure d'Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco**.
+
+My academic work combines **engineering education, biomedical signal processing, embedded systems, TinyML, and artificial intelligence**.
+
+My current research focuses on intelligent and resource-efficient systems for **ECG signal processing and classification**, particularly their deployment on embedded platforms.
+
+::: {.hero-buttons}
+[Teaching](teaching.qmd){.btn .btn-primary}
+[Research](research.qmd){.btn .btn-outline-primary}
+[Publications](publications.qmd){.btn .btn-outline-primary}
+[Curriculum Vitae](cv.qmd){.btn .btn-outline-primary}
+:::
+
+:::
+
+## Research Interests
+
+- Biomedical Engineering
+- Biomedical Signal Processing
+- ECG Analysis and Classification
+- TinyML
+- Embedded Artificial Intelligence
+- Edge AI
+- Embedded Systems
+- Biomedical Instrumentation
+- Internet of Things
+
+## Teaching
+
+I provide educational resources in electrical engineering and industrial engineering sciences, including course materials, tutorials, exercises, laboratory activities, and technical resources.
+
+[Explore Teaching Resources](teaching.qmd){.btn .btn-primary}
+
+## Research & Projects
+
+My research activities focus on intelligent biomedical systems and the deployment of lightweight machine-learning models on resource-constrained embedded platforms.
+
+Current topics include:
+
+- TinyML for ECG beat classification
+- Embedded ECG monitoring
+- Biomedical signal processing
+- Intelligent biomedical instrumentation
+- Edge AI for healthcare applications
+
+[Explore Research](research.qmd){.btn .btn-primary}
+[View Projects](projects.qmd){.btn .btn-outline-primary}
+
+## TikZ Gallery
+
+I also develop **LaTeX/TikZ technical graphics** for engineering education, scientific communication, and academic documentation.
+
+The gallery includes diagrams related to electronics, sensors, instrumentation, signal processing, control systems, embedded systems, and biomedical engineering.
+
+[Explore TikZ Gallery](tikz.qmd){.btn .btn-primary}
+
+## Publications & Academic Activities
+
+My journal articles, conference papers, scientific communications, and other academic activities are presented in dedicated sections of this website.
+
+[Publications](publications.qmd){.btn .btn-primary}
+[Academic Activities](activities.qmd){.btn .btn-outline-primary}
+
+## Contact
+
+For academic, research, teaching, or professional inquiries:
+
+[Contact](contact.qmd){.btn .btn-primary}

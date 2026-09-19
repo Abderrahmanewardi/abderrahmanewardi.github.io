@@ -1,0 +1,19 @@
+# Quarto generated files
+/.quarto/
+/_site/
+*_files/
+
+# VS Code local settings
+.vscode/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.dvi
+*.out
+*.toc
+*.synctex.gz
+
+# Windows
+Thumbs.db
+Desktop.ini

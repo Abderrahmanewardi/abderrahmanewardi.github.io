@@ -1,0 +1,62 @@
+
+## TikZ Gallery
+
+This gallery presents a collection of **LaTeX TikZ graphics** designed for teaching, scientific communication, and engineering documentation.
+
+The figures cover topics in:
+
+- Electronics
+- Electrical Engineering
+- Sensors and Instrumentation
+- Signal Processing
+- Control Systems
+- Embedded Systems
+- Biomedical Engineering
+
+## Categories
+
+### Electronics
+
+Schematics, electrical components, circuits, and electronic systems.
+
+### Sensors & Instrumentation
+
+Sensors, transmitters, measurement chains, signal conditioning, and industrial instrumentation.
+
+### Signal Processing
+
+Signal acquisition, filtering, sampling, and processing diagrams.
+
+### Control Systems
+
+Block diagrams, feedback systems, and automatic control structures.
+
+### Embedded Systems
+
+Microcontrollers, embedded architectures, communication buses, and IoT systems.
+
+### Biomedical Engineering
+
+Biomedical instrumentation, ECG systems, biosensors, and medical signal-processing diagrams.
+
+## Latest Graphics
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+
+::: {.card .tikz-card}
+
+![](resources/tikz/svg/current-loop-4-20ma.svg){width="100%" fig-alt="TikZ diagram of a 4–20 mA current loop for industrial instrumentation"}
+
+### 4–20 mA Current Loop
+
+TikZ diagram illustrating a **4–20 mA current loop** used in sensors and industrial instrumentation.
+
+[View Graphic](tikz-graphics/current-loop-4-20ma.qmd){.btn .btn-primary}
+
+:::
+
+:::
+
+:::

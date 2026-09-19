@@ -1,0 +1,22 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+My peer-reviewed journal publications will be listed here.
+
+## Conference Papers
+
+My conference papers and academic communications will be listed here.
+
+## Research Topics
+
+My publications focus mainly on:
+
+- Biomedical Engineering
+- ECG Signal Processing
+- TinyML
+- Embedded Artificial Intelligence
+- Embedded Systems
+- IoT for Healthcare
