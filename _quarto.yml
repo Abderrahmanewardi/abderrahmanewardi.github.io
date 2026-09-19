@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Abderrahmane Wardi"
-
+  site-url: "https://abderrahmanewardi.github.io"
   navbar:
     left:
       - href: index.qmd
