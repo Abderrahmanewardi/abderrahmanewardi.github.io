@@ -1,0 +1,401 @@
+[
+  {
+    "objectID": "tikz.html",
+    "href": "tikz.html",
+    "title": "Abderrahmane Wardi",
+    "section": "",
+    "text": "This gallery presents a collection of LaTeX TikZ graphics designed for teaching, scientific communication, and engineering documentation.\nThe figures cover topics in:\n\nElectronics\nElectrical Engineering\nSensors and Instrumentation\nSignal Processing\nControl Systems\nEmbedded Systems\nBiomedical Engineering"
+  },
+  {
+    "objectID": "tikz.html#tikz-gallery",
+    "href": "tikz.html#tikz-gallery",
+    "title": "Abderrahmane Wardi",
+    "section": "",
+    "text": "This gallery presents a collection of LaTeX TikZ graphics designed for teaching, scientific communication, and engineering documentation.\nThe figures cover topics in:\n\nElectronics\nElectrical Engineering\nSensors and Instrumentation\nSignal Processing\nControl Systems\nEmbedded Systems\nBiomedical Engineering"
+  },
+  {
+    "objectID": "tikz.html#categories",
+    "href": "tikz.html#categories",
+    "title": "Abderrahmane Wardi",
+    "section": "Categories",
+    "text": "Categories\n\nElectronics\nSchematics, electrical components, circuits, and electronic systems.\n\n\nSensors & Instrumentation\nSensors, transmitters, measurement chains, signal conditioning, and industrial instrumentation.\n\n\nSignal Processing\nSignal acquisition, filtering, sampling, and processing diagrams.\n\n\nControl Systems\nBlock diagrams, feedback systems, and automatic control structures.\n\n\nEmbedded Systems\nMicrocontrollers, embedded architectures, communication buses, and IoT systems.\n\n\nBiomedical Engineering\nBiomedical instrumentation, ECG systems, biosensors, and medical signal-processing diagrams."
+  },
+  {
+    "objectID": "tikz.html#latest-graphics",
+    "href": "tikz.html#latest-graphics",
+    "title": "Abderrahmane Wardi",
+    "section": "Latest Graphics",
+    "text": "Latest Graphics\n\n\n\n\n\n4–20 mA Current Loop\nTikZ diagram illustrating a 4–20 mA current loop used in sensors and industrial instrumentation.\nView Graphic"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This section provides course materials, tutorials, exercises, laboratory activities, and technical resources for students."
+  },
+  {
+    "objectID": "teaching.html#teaching-activities",
+    "href": "teaching.html#teaching-activities",
+    "title": "Teaching",
+    "section": "",
+    "text": "This section provides course materials, tutorials, exercises, laboratory activities, and technical resources for students."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nAcquisition – Traitement – Communication (ATC)\nCourse materials for 2ème année STE.\nTopics include:\n\nInformation acquisition\nSensors\nSignal conditioning\nAnalog-to-digital conversion\nSignal processing\nCommunication systems\n\nMore detailed course pages will be added progressively."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My peer-reviewed journal publications will be listed here."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "My peer-reviewed journal publications will be listed here."
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\nMy conference papers and academic communications will be listed here."
+  },
+  {
+    "objectID": "publications.html#research-topics",
+    "href": "publications.html#research-topics",
+    "title": "Publications",
+    "section": "Research Topics",
+    "text": "Research Topics\nMy publications focus mainly on:\n\nBiomedical Engineering\nECG Signal Processing\nTinyML\nEmbedded Artificial Intelligence\nEmbedded Systems\nIoT for Healthcare"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abderrahmane Wardi",
+    "section": "",
+    "text": "I am Abderrahmane Wardi, a Professor of Industrial Engineering Sciences and a PhD candidate at École Nationale Supérieure d’Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco.\nMy academic work combines engineering education, biomedical signal processing, embedded systems, TinyML, and artificial intelligence.\nMy current research focuses on intelligent and resource-efficient systems for ECG signal processing and classification, particularly their deployment on embedded platforms.\n\nTeaching Research Publications Curriculum Vitae"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Abderrahmane Wardi",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBiomedical Engineering\nBiomedical Signal Processing\nECG Analysis and Classification\nTinyML\nEmbedded Artificial Intelligence\nEdge AI\nEmbedded Systems\nBiomedical Instrumentation\nInternet of Things"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Abderrahmane Wardi",
+    "section": "Teaching",
+    "text": "Teaching\nI provide educational resources in electrical engineering and industrial engineering sciences, including course materials, tutorials, exercises, laboratory activities, and technical resources.\nExplore Teaching Resources"
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Abderrahmane Wardi",
+    "section": "Research & Projects",
+    "text": "Research & Projects\nMy research activities focus on intelligent biomedical systems and the deployment of lightweight machine-learning models on resource-constrained embedded platforms.\nCurrent topics include:\n\nTinyML for ECG beat classification\nEmbedded ECG monitoring\nBiomedical signal processing\nIntelligent biomedical instrumentation\nEdge AI for healthcare applications\n\nExplore Research View Projects"
+  },
+  {
+    "objectID": "index.html#tikz-gallery",
+    "href": "index.html#tikz-gallery",
+    "title": "Abderrahmane Wardi",
+    "section": "TikZ Gallery",
+    "text": "TikZ Gallery\nI also develop LaTeX/TikZ technical graphics for engineering education, scientific communication, and academic documentation.\nThe gallery includes diagrams related to electronics, sensors, instrumentation, signal processing, control systems, embedded systems, and biomedical engineering.\nExplore TikZ Gallery"
+  },
+  {
+    "objectID": "index.html#publications-academic-activities",
+    "href": "index.html#publications-academic-activities",
+    "title": "Abderrahmane Wardi",
+    "section": "Publications & Academic Activities",
+    "text": "Publications & Academic Activities\nMy journal articles, conference papers, scientific communications, and other academic activities are presented in dedicated sections of this website.\nPublications Academic Activities"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Abderrahmane Wardi",
+    "section": "Contact",
+    "text": "Contact\nFor academic, research, teaching, or professional inquiries:\nContact"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For academic, research, teaching, or professional inquiries, you can contact me through the following channels.\n\n\nAbderrahmane Wardi\nEmail: abderrahmanewardi@gmail.com"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "For academic, research, teaching, or professional inquiries, you can contact me through the following channels.\n\n\nAbderrahmane Wardi\nEmail: abderrahmanewardi@gmail.com"
+  },
+  {
+    "objectID": "contact.html#academic-profiles",
+    "href": "contact.html#academic-profiles",
+    "title": "Contact",
+    "section": "Academic Profiles",
+    "text": "Academic Profiles\nLinks to my academic and professional profiles will be added here:\n\nGoogle Scholar\nORCID\nResearchGate\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "contact.html#institution",
+    "href": "contact.html#institution",
+    "title": "Contact",
+    "section": "Institution",
+    "text": "Institution\nÉcole Nationale Supérieure d’Arts et Métiers (ENSAM)\nMohammed V University in Rabat, Morocco"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Professor of Industrial Engineering Sciences and a PhD candidate working in the field of biomedical engineering.\nMy academic activities combine teaching, scientific research, embedded systems, biomedical signal processing, and artificial intelligence."
+  },
+  {
+    "objectID": "about.html#abderrahmane-wardi",
+    "href": "about.html#abderrahmane-wardi",
+    "title": "About",
+    "section": "",
+    "text": "I am a Professor of Industrial Engineering Sciences and a PhD candidate working in the field of biomedical engineering.\nMy academic activities combine teaching, scientific research, embedded systems, biomedical signal processing, and artificial intelligence."
+  },
+  {
+    "objectID": "about.html#academic-interests",
+    "href": "about.html#academic-interests",
+    "title": "About",
+    "section": "Academic Interests",
+    "text": "Academic Interests\nMy main academic and research interests include:\n\nBiomedical Engineering\nECG Signal Processing\nTinyML\nEmbedded Artificial Intelligence\nEmbedded Systems\nBiomedical Instrumentation\nInternet of Things\nEngineering Education"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "About",
+    "section": "Teaching",
+    "text": "Teaching\nMy teaching activities focus on electrical engineering, industrial engineering sciences, instrumentation, signal acquisition, signal processing, and embedded systems."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "Research",
+    "text": "Research\nMy doctoral research focuses on intelligent biomedical systems, particularly the processing and classification of ECG signals using lightweight artificial intelligence models suitable for embedded devices."
+  },
+  {
+    "objectID": "about.html#academic-mission",
+    "href": "about.html#academic-mission",
+    "title": "About",
+    "section": "Academic Mission",
+    "text": "Academic Mission\nMy objective is to combine teaching, research, and engineering practice to develop accessible and efficient solutions in biomedical engineering and intelligent embedded systems."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Academic Activities",
+    "section": "",
+    "text": "This section presents my academic activities, including conferences, scientific events, training, and professional development."
+  },
+  {
+    "objectID": "activities.html#academic-activities",
+    "href": "activities.html#academic-activities",
+    "title": "Academic Activities",
+    "section": "",
+    "text": "This section presents my academic activities, including conferences, scientific events, training, and professional development."
+  },
+  {
+    "objectID": "activities.html#conferences",
+    "href": "activities.html#conferences",
+    "title": "Academic Activities",
+    "section": "Conferences",
+    "text": "Conferences\nParticipation in national and international conferences related to:\n\nBiomedical Engineering\nArtificial Intelligence\nEmbedded Systems\nTinyML\nSignal Processing"
+  },
+  {
+    "objectID": "activities.html#scientific-communications",
+    "href": "activities.html#scientific-communications",
+    "title": "Academic Activities",
+    "section": "Scientific Communications",
+    "text": "Scientific Communications\nPresentation of research work through:\n\nOral presentations\nConference papers\nPosters\nTechnical demonstrations"
+  },
+  {
+    "objectID": "activities.html#training-and-professional-development",
+    "href": "activities.html#training-and-professional-development",
+    "title": "Academic Activities",
+    "section": "Training and Professional Development",
+    "text": "Training and Professional Development\nParticipation in training programs, workshops, seminars, and academic events related to teaching, research, engineering, and emerging technologies."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Professor of Industrial Engineering Sciences and PhD Candidate in Biomedical Engineering."
+  },
+  {
+    "objectID": "cv.html#abderrahmane-wardi",
+    "href": "cv.html#abderrahmane-wardi",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Professor of Industrial Engineering Sciences and PhD Candidate in Biomedical Engineering."
+  },
+  {
+    "objectID": "cv.html#academic-profile",
+    "href": "cv.html#academic-profile",
+    "title": "Curriculum Vitae",
+    "section": "Academic Profile",
+    "text": "Academic Profile\nMy academic interests focus on:\n\nBiomedical Engineering\nBiomedical Signal Processing\nECG Analysis\nTinyML\nEmbedded Artificial Intelligence\nEmbedded Systems\nInternet of Things"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD Candidate\nÉcole Nationale Supérieure d’Arts et Métiers (ENSAM)\nMohammed V University in Rabat, Morocco\nResearch area: Biomedical Engineering and intelligent embedded systems.\n\n\nAgrégation in Electrical Engineering\nSpecialization in Electrical Engineering and Industrial Engineering Sciences.\n\n\nMaster’s Degree\nAutomation, Signal Processing and Industrial Systems.\n\n\nBachelor’s Degree\nElectrical Engineering and Automatic Control."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nProfessor in Electrical Engineering and Industrial Engineering Sciences.\nTeaching activities include:\n\nAcquisition systems\nSignal processing\nSensors and instrumentation\nElectrical engineering\nEmbedded systems\nIndustrial systems"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nTinyML for biomedical applications\nECG signal classification\nEmbedded AI\nBiomedical instrumentation\nEdge computing\nIoT for healthcare"
+  },
+  {
+    "objectID": "cv.html#publications-and-conferences",
+    "href": "cv.html#publications-and-conferences",
+    "title": "Curriculum Vitae",
+    "section": "Publications and Conferences",
+    "text": "Publications and Conferences\nMy journal articles, conference papers, and scientific communications are available on the Publications page."
+  },
+  {
+    "objectID": "cv.html#research-projects",
+    "href": "cv.html#research-projects",
+    "title": "Curriculum Vitae",
+    "section": "Research Projects",
+    "text": "Research Projects\nSelected projects are available on the Projects page."
+  },
+  {
+    "objectID": "cv.html#academic-activities",
+    "href": "cv.html#academic-activities",
+    "title": "Curriculum Vitae",
+    "section": "Academic Activities",
+    "text": "Academic Activities\nConferences, workshops, and academic activities are available on the Academic Activities page."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This section presents selected academic and research projects related to biomedical engineering, embedded systems, and artificial intelligence."
+  },
+  {
+    "objectID": "projects.html#academic-and-research-projects",
+    "href": "projects.html#academic-and-research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "This section presents selected academic and research projects related to biomedical engineering, embedded systems, and artificial intelligence."
+  },
+  {
+    "objectID": "projects.html#tinyml-ecg-classification",
+    "href": "projects.html#tinyml-ecg-classification",
+    "title": "Projects",
+    "section": "TinyML ECG Classification",
+    "text": "TinyML ECG Classification\nDevelopment of a lightweight deep-learning model for ECG beat classification and deployment on embedded devices.\nMain topics:\n\nECG signal processing\nDeep learning\nTinyML\nModel quantization\nEmbedded AI\nESP32-S3 deployment"
+  },
+  {
+    "objectID": "projects.html#embedded-ecg-monitoring",
+    "href": "projects.html#embedded-ecg-monitoring",
+    "title": "Projects",
+    "section": "Embedded ECG Monitoring",
+    "text": "Embedded ECG Monitoring\nDevelopment and validation of an embedded IoT framework for ECG signal processing and monitoring.\nMain topics:\n\nECG acquisition\nDigital signal processing\nR-peak detection\nEmbedded systems\nInternet of Things\nReal-time monitoring"
+  },
+  {
+    "objectID": "projects.html#biomedical-instrumentation",
+    "href": "projects.html#biomedical-instrumentation",
+    "title": "Projects",
+    "section": "Biomedical Instrumentation",
+    "text": "Biomedical Instrumentation\nDevelopment of intelligent biomedical instrumentation combining sensors, signal acquisition, embedded processing, and artificial intelligence."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research activities focus on the development of intelligent biomedical systems combining biomedical signal processing, embedded systems, TinyML, and artificial intelligence."
+  },
+  {
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research activities focus on the development of intelligent biomedical systems combining biomedical signal processing, embedded systems, TinyML, and artificial intelligence."
+  },
+  {
+    "objectID": "research.html#main-research-areas",
+    "href": "research.html#main-research-areas",
+    "title": "Research",
+    "section": "Main Research Areas",
+    "text": "Main Research Areas\n\nBiomedical Engineering\nECG Signal Processing\nTinyML\nEmbedded Artificial Intelligence\nEdge AI\nEmbedded Systems\nInternet of Things for Healthcare"
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "Current Research",
+    "text": "Current Research\n\nTinyML for ECG Classification\nDevelopment of lightweight deep-learning models for ECG beat classification and their deployment on resource-constrained embedded devices.\n\n\nEmbedded ECG Monitoring\nDesign and validation of embedded and IoT-based architectures for ECG acquisition, processing, analysis, and monitoring.\n\n\nIntelligent Biomedical Instrumentation\nDevelopment of smart biomedical instrumentation combining sensing, signal processing, embedded computing, and artificial intelligence."
+  },
+  {
+    "objectID": "tikz-graphics/current-loop-4-20ma.html",
+    "href": "tikz-graphics/current-loop-4-20ma.html",
+    "title": "4–20 mA Current Loop",
+    "section": "",
+    "text": "This TikZ graphic illustrates a 4–20 mA current loop, a standard signal transmission method widely used in industrial instrumentation.\nThe diagram represents the connection between a sensor, transmitter, transmission loop, and receiving circuit."
+  },
+  {
+    "objectID": "tikz-graphics/current-loop-4-20ma.html#overview",
+    "href": "tikz-graphics/current-loop-4-20ma.html#overview",
+    "title": "4–20 mA Current Loop",
+    "section": "",
+    "text": "This TikZ graphic illustrates a 4–20 mA current loop, a standard signal transmission method widely used in industrial instrumentation.\nThe diagram represents the connection between a sensor, transmitter, transmission loop, and receiving circuit."
+  },
+  {
+    "objectID": "tikz-graphics/current-loop-4-20ma.html#graphic",
+    "href": "tikz-graphics/current-loop-4-20ma.html#graphic",
+    "title": "4–20 mA Current Loop",
+    "section": "Graphic",
+    "text": "Graphic"
+  },
+  {
+    "objectID": "tikz-graphics/current-loop-4-20ma.html#description",
+    "href": "tikz-graphics/current-loop-4-20ma.html#description",
+    "title": "4–20 mA Current Loop",
+    "section": "Description",
+    "text": "Description\nThe figure illustrates the main elements of a typical 4–20 mA measurement chain:\n\nsensor;\ntransmitter;\ncurrent-loop transmission;\nelectrical connections;\nreceiving resistor;\nmeasurement or display system.\n\nThe 4–20 mA standard is commonly used in industrial environments because current transmission provides good robustness against voltage drops and electrical noise."
+  },
+  {
+    "objectID": "tikz-graphics/current-loop-4-20ma.html#resources",
+    "href": "tikz-graphics/current-loop-4-20ma.html#resources",
+    "title": "4–20 mA Current Loop",
+    "section": "Resources",
+    "text": "Resources\nDownload PDF\nDownload LaTeX Source"
+  },
+  {
+    "objectID": "tikz-graphics/current-loop-4-20ma.html#topics",
+    "href": "tikz-graphics/current-loop-4-20ma.html#topics",
+    "title": "4–20 mA Current Loop",
+    "section": "Topics",
+    "text": "Topics\nTikZ · LaTeX · 4–20 mA · Sensors · Instrumentation · Industrial Electronics"
+  }
+]
