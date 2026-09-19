@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - google11cb182ff17443f3.html
 
 website:
   title: "Abderrahmane Wardi"
