@@ -14,29 +14,23 @@ website:
       - href: teaching.qmd
         text: Teaching
 
-      - href: research.qmd
-        text: Research
-
-      - href: publications.qmd
-        text: Publications
-
-      - href: projects.qmd
-        text: Projects
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Research
+          - href: publications.qmd
+            text: Publications
+          - href: projects.qmd
+            text: Projects
 
       - href: tikz.qmd
         text: TikZ Gallery
-
-      - href: activities.qmd
-        text: Academic Activities
 
       - href: cv.qmd
         text: CV
 
       - href: contact.qmd
         text: Contact
-
-      - href: about.qmd
-        text: About
 
   search: true
 
