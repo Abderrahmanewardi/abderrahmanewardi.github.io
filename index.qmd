@@ -103,11 +103,11 @@ My peer-reviewed journal articles, conference papers, and scientific communicati
 
 [View Publications](publications.qmd){.btn .btn-primary}
 
-## Academic Activities
+## Profile
 
-My academic activities include scientific conferences, oral communications, workshops, training, teaching activities, and professional development.
+My academic background, teaching philosophy, research interests, and professional development activities are presented on my profile page.
 
-[Academic Activities](activities.qmd){.btn .btn-primary}
+[View Profile](about.qmd){.btn .btn-primary}
 
 ## Curriculum Vitae
 

@@ -1,25 +1,27 @@
 ---
-title: "About"
+title: "Profile"
 ---
 
 ## Abderrahmane Wardi
 
-I am a Professor of Industrial Engineering Sciences and a PhD candidate working in the field of biomedical engineering.
+I am a Professor of Electrical Engineering and Industrial Engineering Sciences, and a PhD candidate at the École Nationale Supérieure d'Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco.
 
-My academic activities combine **teaching**, **scientific research**, **embedded systems**, **biomedical signal processing**, and **artificial intelligence**.
+My academic activities combine **teaching**, **scientific research**, **embedded systems**, **signal processing**, **instrumentation**, and **automation**. My doctoral research extends these areas toward **biomedical applications**, with a focus on ECG signal processing and embedded artificial intelligence.
 
 ## Academic Interests
 
 My main academic and research interests include:
 
+- Electrical Engineering
+- Industrial Engineering Sciences
+- Embedded Systems
+- Signal Processing
+- Instrumentation and Measurement
+- Automation and Control
 - Biomedical Engineering
 - ECG Signal Processing
-- TinyML
-- Embedded Artificial Intelligence
-- Embedded Systems
-- Biomedical Instrumentation
+- TinyML and Embedded Artificial Intelligence
 - Internet of Things
-- Engineering Education
 
 ## Teaching
 
@@ -27,8 +29,18 @@ My teaching activities focus on electrical engineering, industrial engineering s
 
 ## Research
 
-My doctoral research focuses on intelligent biomedical systems, particularly the processing and classification of ECG signals using lightweight artificial intelligence models suitable for embedded devices.
+My doctoral research focuses on intelligent biomedical systems, particularly the processing and classification of ECG signals using lightweight artificial intelligence models suitable for embedded devices. This work builds on a broader background in electrical engineering, embedded systems, and signal processing.
+
+## Professional Development
+
+I regularly participate in scientific conferences, training programs, workshops, and seminars related to teaching, research, engineering, and emerging technologies, in the fields of:
+
+- Biomedical Engineering
+- Artificial Intelligence
+- Embedded Systems
+- TinyML
+- Signal Processing
 
 ## Academic Mission
 
-My objective is to combine teaching, research, and engineering practice to develop accessible and efficient solutions in biomedical engineering and intelligent embedded systems.
+My objective is to combine teaching, research, and engineering practice to develop accessible and efficient solutions in electrical engineering, embedded systems, and — through my doctoral work — intelligent biomedical instrumentation.

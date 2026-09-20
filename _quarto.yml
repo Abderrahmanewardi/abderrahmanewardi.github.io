@@ -20,17 +20,22 @@ website:
             text: Research
           - href: publications.qmd
             text: Publications
+          - href: presentations.qmd
+            text: Presentations
           - href: projects.qmd
             text: Projects
 
       - href: tikz.qmd
         text: TikZ Gallery
 
-      - href: cv.qmd
-        text: CV
-
-      - href: contact.qmd
-        text: Contact
+      - text: About
+        menu:
+          - href: about.qmd
+            text: Profile
+          - href: cv.qmd
+            text: CV
+          - href: contact.qmd
+            text: Contact
 
   search: true
 

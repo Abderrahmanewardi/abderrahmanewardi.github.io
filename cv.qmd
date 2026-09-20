@@ -69,6 +69,6 @@ My journal articles, conference papers, and scientific communications are availa
 
 Selected projects are available on the [Projects](projects.qmd) page.
 
-## Academic Activities
+## Professional Development
 
-Conferences, workshops, and academic activities are available on the [Academic Activities](activities.qmd) page.
+Conferences, workshops, and
