@@ -77,179 +77,32 @@
     "text": "Research Topics\nMy publications focus mainly on:\n\nBiomedical Engineering\nECG Signal Processing\nTinyML\nEmbedded Artificial Intelligence\nEmbedded Systems\nIoT for Healthcare"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Abderrahmane Wardi",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "I am Abderrahmane Wardi, a Professor of Electrical Engineering and Industrial Engineering Sciences and a PhD candidate at École Nationale Supérieure d’Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco.\nMy academic background is primarily in electrical engineering, with teaching and technical activities spanning embedded systems, signal processing, instrumentation, automation, electrical systems, and industrial engineering sciences.\nMy doctoral research extends these engineering areas toward biomedical applications, particularly ECG signal processing, intelligent biomedical instrumentation, TinyML, and embedded artificial intelligence.\n\nTeaching Research Publications Curriculum Vitae"
+    "text": "Oral presentations delivered at scientific conferences and academic events will be listed here."
   },
   {
-    "objectID": "index.html#academic-areas",
-    "href": "index.html#academic-areas",
-    "title": "Abderrahmane Wardi",
-    "section": "Academic Areas",
-    "text": "Academic Areas\n\nElectrical Engineering\nIndustrial Engineering Sciences\nEmbedded Systems\nSignal Processing\nInstrumentation and Measurement\nAutomation and Control\nElectronics\nInternet of Things\nIntelligent Systems"
-  },
-  {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Abderrahmane Wardi",
-    "section": "Teaching",
-    "text": "Teaching\nMy teaching activities focus on electrical engineering and industrial engineering sciences, including topics related to:\n\nsignal acquisition and processing;\nsensors and instrumentation;\nelectronics;\nautomatic control;\nembedded systems;\nelectrical systems;\nindustrial systems;\ncommunication and information processing.\n\nThis website provides course materials, tutorials, exercises, laboratory activities, technical documents, and educational resources for students.\nExplore Teaching Resources"
-  },
-  {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Abderrahmane Wardi",
-    "section": "Research",
-    "text": "Research\nMy research activities are rooted in electrical engineering, signal processing, embedded systems, and intelligent instrumentation.\nMy doctoral research particularly investigates the application of these engineering disciplines to biomedical systems, with current interests including:\n\nECG signal processing and analysis;\nembedded biomedical systems;\nTinyML for biomedical applications;\nembedded artificial intelligence;\nintelligent biomedical instrumentation;\nEdge AI;\nIoT for healthcare.\n\nExplore Research"
-  },
-  {
-    "objectID": "index.html#research-projects",
-    "href": "index.html#research-projects",
-    "title": "Abderrahmane Wardi",
-    "section": "Research Projects",
-    "text": "Research Projects\nCurrent and recent projects include the development of intelligent embedded systems for signal acquisition, processing, classification, and monitoring.\nThese projects combine several areas of electrical engineering, including electronics, embedded computing, digital signal processing, communication systems, instrumentation, and artificial intelligence.\nView Projects"
-  },
-  {
-    "objectID": "index.html#tikz-gallery",
-    "href": "index.html#tikz-gallery",
-    "title": "Abderrahmane Wardi",
-    "section": "TikZ Gallery",
-    "text": "TikZ Gallery\nI develop LaTeX/TikZ technical and scientific graphics for engineering education, academic documentation, and scientific communication.\nThe gallery includes diagrams related to:\n\nElectronics\nElectrical Engineering\nSensors and Instrumentation\nSignal Processing\nControl Systems\nEmbedded Systems\nIndustrial Systems\nBiomedical Engineering\n\nExplore TikZ Gallery"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Abderrahmane Wardi",
-    "section": "Publications",
-    "text": "Publications\nMy peer-reviewed journal articles, conference papers, and scientific communications cover topics related to electrical engineering, embedded systems, biomedical applications, signal processing, and intelligent systems.\nView Publications"
-  },
-  {
-    "objectID": "index.html#academic-activities",
-    "href": "index.html#academic-activities",
-    "title": "Abderrahmane Wardi",
-    "section": "Academic Activities",
-    "text": "Academic Activities\nMy academic activities include scientific conferences, oral communications, workshops, training, teaching activities, and professional development.\nAcademic Activities"
-  },
-  {
-    "objectID": "index.html#curriculum-vitae",
-    "href": "index.html#curriculum-vitae",
-    "title": "Abderrahmane Wardi",
-    "section": "Curriculum Vitae",
-    "text": "Curriculum Vitae\nMy academic background, education, teaching experience, research activities, technical skills, and scientific work are presented in my curriculum vitae.\nView Curriculum Vitae"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Abderrahmane Wardi",
-    "section": "Contact",
-    "text": "Contact\nFor academic, research, teaching, scientific collaboration, or professional inquiries:\nContact"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "presentations.html#oral-presentations",
+    "href": "presentations.html#oral-presentations",
+    "title": "Presentations",
     "section": "",
-    "text": "For academic, research, teaching, or professional inquiries, you can contact me through the following channels.\n\n\nAbderrahmane Wardi\nEmail: abderrahmanewardi@gmail.com"
+    "text": "Oral presentations delivered at scientific conferences and academic events will be listed here."
   },
   {
-    "objectID": "contact.html#contact",
-    "href": "contact.html#contact",
-    "title": "Contact",
-    "section": "",
-    "text": "For academic, research, teaching, or professional inquiries, you can contact me through the following channels.\n\n\nAbderrahmane Wardi\nEmail: abderrahmanewardi@gmail.com"
+    "objectID": "presentations.html#poster-presentations",
+    "href": "presentations.html#poster-presentations",
+    "title": "Presentations",
+    "section": "Poster Presentations",
+    "text": "Poster Presentations\nPoster presentations delivered at scientific conferences and academic events will be listed here."
   },
   {
-    "objectID": "contact.html#academic-profiles",
-    "href": "contact.html#academic-profiles",
-    "title": "Contact",
-    "section": "Academic Profiles",
-    "text": "Academic Profiles\nLinks to my academic and professional profiles will be added here:\n\nGoogle Scholar\nORCID\nResearchGate\nLinkedIn\nGitHub"
-  },
-  {
-    "objectID": "contact.html#institution",
-    "href": "contact.html#institution",
-    "title": "Contact",
-    "section": "Institution",
-    "text": "Institution\nÉcole Nationale Supérieure d’Arts et Métiers (ENSAM)\nMohammed V University in Rabat, Morocco"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a Professor of Industrial Engineering Sciences and a PhD candidate working in the field of biomedical engineering.\nMy academic activities combine teaching, scientific research, embedded systems, biomedical signal processing, and artificial intelligence."
-  },
-  {
-    "objectID": "about.html#abderrahmane-wardi",
-    "href": "about.html#abderrahmane-wardi",
-    "title": "About",
-    "section": "",
-    "text": "I am a Professor of Industrial Engineering Sciences and a PhD candidate working in the field of biomedical engineering.\nMy academic activities combine teaching, scientific research, embedded systems, biomedical signal processing, and artificial intelligence."
-  },
-  {
-    "objectID": "about.html#academic-interests",
-    "href": "about.html#academic-interests",
-    "title": "About",
-    "section": "Academic Interests",
-    "text": "Academic Interests\nMy main academic and research interests include:\n\nBiomedical Engineering\nECG Signal Processing\nTinyML\nEmbedded Artificial Intelligence\nEmbedded Systems\nBiomedical Instrumentation\nInternet of Things\nEngineering Education"
-  },
-  {
-    "objectID": "about.html#teaching",
-    "href": "about.html#teaching",
-    "title": "About",
-    "section": "Teaching",
-    "text": "Teaching\nMy teaching activities focus on electrical engineering, industrial engineering sciences, instrumentation, signal acquisition, signal processing, and embedded systems."
-  },
-  {
-    "objectID": "about.html#research",
-    "href": "about.html#research",
-    "title": "About",
-    "section": "Research",
-    "text": "Research\nMy doctoral research focuses on intelligent biomedical systems, particularly the processing and classification of ECG signals using lightweight artificial intelligence models suitable for embedded devices."
-  },
-  {
-    "objectID": "about.html#academic-mission",
-    "href": "about.html#academic-mission",
-    "title": "About",
-    "section": "Academic Mission",
-    "text": "Academic Mission\nMy objective is to combine teaching, research, and engineering practice to develop accessible and efficient solutions in biomedical engineering and intelligent embedded systems."
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Academic Activities",
-    "section": "",
-    "text": "This section presents my academic activities, including conferences, scientific events, training, and professional development."
-  },
-  {
-    "objectID": "activities.html#academic-activities",
-    "href": "activities.html#academic-activities",
-    "title": "Academic Activities",
-    "section": "",
-    "text": "This section presents my academic activities, including conferences, scientific events, training, and professional development."
-  },
-  {
-    "objectID": "activities.html#conferences",
-    "href": "activities.html#conferences",
-    "title": "Academic Activities",
-    "section": "Conferences",
-    "text": "Conferences\nParticipation in national and international conferences related to:\n\nBiomedical Engineering\nArtificial Intelligence\nEmbedded Systems\nTinyML\nSignal Processing"
-  },
-  {
-    "objectID": "activities.html#scientific-communications",
-    "href": "activities.html#scientific-communications",
-    "title": "Academic Activities",
-    "section": "Scientific Communications",
-    "text": "Scientific Communications\nPresentation of research work through:\n\nOral presentations\nConference papers\nPosters\nTechnical demonstrations"
-  },
-  {
-    "objectID": "activities.html#training-and-professional-development",
-    "href": "activities.html#training-and-professional-development",
-    "title": "Academic Activities",
-    "section": "Training and Professional Development",
-    "text": "Training and Professional Development\nParticipation in training programs, workshops, seminars, and academic events related to teaching, research, engineering, and emerging technologies."
+    "objectID": "presentations.html#invited-talks",
+    "href": "presentations.html#invited-talks",
+    "title": "Presentations",
+    "section": "Invited Talks",
+    "text": "Invited Talks\nInvited talks and seminars will be listed here."
   },
   {
     "objectID": "cv.html",
@@ -308,11 +161,158 @@
     "text": "Research Projects\nSelected projects are available on the Projects page."
   },
   {
-    "objectID": "cv.html#academic-activities",
-    "href": "cv.html#academic-activities",
+    "objectID": "cv.html#professional-development",
+    "href": "cv.html#professional-development",
     "title": "Curriculum Vitae",
-    "section": "Academic Activities",
-    "text": "Academic Activities\nConferences, workshops, and academic activities are available on the Academic Activities page."
+    "section": "Professional Development",
+    "text": "Professional Development\nConferences, workshops, and"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Profile",
+    "section": "",
+    "text": "I am a Professor of Electrical Engineering and Industrial Engineering Sciences, and a PhD candidate at the École Nationale Supérieure d’Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco.\nMy academic activities combine teaching, scientific research, embedded systems, signal processing, instrumentation, and automation. My doctoral research extends these areas toward biomedical applications, with a focus on ECG signal processing and embedded artificial intelligence."
+  },
+  {
+    "objectID": "about.html#abderrahmane-wardi",
+    "href": "about.html#abderrahmane-wardi",
+    "title": "Profile",
+    "section": "",
+    "text": "I am a Professor of Electrical Engineering and Industrial Engineering Sciences, and a PhD candidate at the École Nationale Supérieure d’Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco.\nMy academic activities combine teaching, scientific research, embedded systems, signal processing, instrumentation, and automation. My doctoral research extends these areas toward biomedical applications, with a focus on ECG signal processing and embedded artificial intelligence."
+  },
+  {
+    "objectID": "about.html#academic-interests",
+    "href": "about.html#academic-interests",
+    "title": "Profile",
+    "section": "Academic Interests",
+    "text": "Academic Interests\nMy main academic and research interests include:\n\nElectrical Engineering\nIndustrial Engineering Sciences\nEmbedded Systems\nSignal Processing\nInstrumentation and Measurement\nAutomation and Control\nBiomedical Engineering\nECG Signal Processing\nTinyML and Embedded Artificial Intelligence\nInternet of Things"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "Profile",
+    "section": "Teaching",
+    "text": "Teaching\nMy teaching activities focus on electrical engineering, industrial engineering sciences, instrumentation, signal acquisition, signal processing, and embedded systems."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "Profile",
+    "section": "Research",
+    "text": "Research\nMy doctoral research focuses on intelligent biomedical systems, particularly the processing and classification of ECG signals using lightweight artificial intelligence models suitable for embedded devices. This work builds on a broader background in electrical engineering, embedded systems, and signal processing."
+  },
+  {
+    "objectID": "about.html#professional-development",
+    "href": "about.html#professional-development",
+    "title": "Profile",
+    "section": "Professional Development",
+    "text": "Professional Development\nI regularly participate in scientific conferences, training programs, workshops, and seminars related to teaching, research, engineering, and emerging technologies, in the fields of:\n\nBiomedical Engineering\nArtificial Intelligence\nEmbedded Systems\nTinyML\nSignal Processing"
+  },
+  {
+    "objectID": "about.html#academic-mission",
+    "href": "about.html#academic-mission",
+    "title": "Profile",
+    "section": "Academic Mission",
+    "text": "Academic Mission\nMy objective is to combine teaching, research, and engineering practice to develop accessible and efficient solutions in electrical engineering, embedded systems, and — through my doctoral work — intelligent biomedical instrumentation."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For academic, research, teaching, or professional inquiries, you can contact me through the following channels.\n\n\nAbderrahmane Wardi\nEmail: abderrahmanewardi@gmail.com"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "For academic, research, teaching, or professional inquiries, you can contact me through the following channels.\n\n\nAbderrahmane Wardi\nEmail: abderrahmanewardi@gmail.com"
+  },
+  {
+    "objectID": "contact.html#academic-profiles",
+    "href": "contact.html#academic-profiles",
+    "title": "Contact",
+    "section": "Academic Profiles",
+    "text": "Academic Profiles\nLinks to my academic and professional profiles will be added here:\n\nGoogle Scholar\nORCID\nResearchGate\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "contact.html#institution",
+    "href": "contact.html#institution",
+    "title": "Contact",
+    "section": "Institution",
+    "text": "Institution\nÉcole Nationale Supérieure d’Arts et Métiers (ENSAM)\nMohammed V University in Rabat, Morocco"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abderrahmane Wardi",
+    "section": "",
+    "text": "I am Abderrahmane Wardi, a Professor of Electrical Engineering and Industrial Engineering Sciences and a PhD candidate at École Nationale Supérieure d’Arts et Métiers (ENSAM), Mohammed V University in Rabat, Morocco.\nMy academic background is primarily in electrical engineering, with teaching and technical activities spanning embedded systems, signal processing, instrumentation, automation, electrical systems, and industrial engineering sciences.\nMy doctoral research extends these engineering areas toward biomedical applications, particularly ECG signal processing, intelligent biomedical instrumentation, TinyML, and embedded artificial intelligence.\n\nTeaching Research Publications Curriculum Vitae"
+  },
+  {
+    "objectID": "index.html#academic-areas",
+    "href": "index.html#academic-areas",
+    "title": "Abderrahmane Wardi",
+    "section": "Academic Areas",
+    "text": "Academic Areas\n\nElectrical Engineering\nIndustrial Engineering Sciences\nEmbedded Systems\nSignal Processing\nInstrumentation and Measurement\nAutomation and Control\nElectronics\nInternet of Things\nIntelligent Systems"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Abderrahmane Wardi",
+    "section": "Teaching",
+    "text": "Teaching\nMy teaching activities focus on electrical engineering and industrial engineering sciences, including topics related to:\n\nsignal acquisition and processing;\nsensors and instrumentation;\nelectronics;\nautomatic control;\nembedded systems;\nelectrical systems;\nindustrial systems;\ncommunication and information processing.\n\nThis website provides course materials, tutorials, exercises, laboratory activities, technical documents, and educational resources for students.\nExplore Teaching Resources"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Abderrahmane Wardi",
+    "section": "Research",
+    "text": "Research\nMy research activities are rooted in electrical engineering, signal processing, embedded systems, and intelligent instrumentation.\nMy doctoral research particularly investigates the application of these engineering disciplines to biomedical systems, with current interests including:\n\nECG signal processing and analysis;\nembedded biomedical systems;\nTinyML for biomedical applications;\nembedded artificial intelligence;\nintelligent biomedical instrumentation;\nEdge AI;\nIoT for healthcare.\n\nExplore Research"
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Abderrahmane Wardi",
+    "section": "Research Projects",
+    "text": "Research Projects\nCurrent and recent projects include the development of intelligent embedded systems for signal acquisition, processing, classification, and monitoring.\nThese projects combine several areas of electrical engineering, including electronics, embedded computing, digital signal processing, communication systems, instrumentation, and artificial intelligence.\nView Projects"
+  },
+  {
+    "objectID": "index.html#tikz-gallery",
+    "href": "index.html#tikz-gallery",
+    "title": "Abderrahmane Wardi",
+    "section": "TikZ Gallery",
+    "text": "TikZ Gallery\nI develop LaTeX/TikZ technical and scientific graphics for engineering education, academic documentation, and scientific communication.\nThe gallery includes diagrams related to:\n\nElectronics\nElectrical Engineering\nSensors and Instrumentation\nSignal Processing\nControl Systems\nEmbedded Systems\nIndustrial Systems\nBiomedical Engineering\n\nExplore TikZ Gallery"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Abderrahmane Wardi",
+    "section": "Publications",
+    "text": "Publications\nMy peer-reviewed journal articles, conference papers, and scientific communications cover topics related to electrical engineering, embedded systems, biomedical applications, signal processing, and intelligent systems.\nView Publications"
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Abderrahmane Wardi",
+    "section": "Profile",
+    "text": "Profile\nMy academic background, teaching philosophy, research interests, and professional development activities are presented on my profile page.\nView Profile"
+  },
+  {
+    "objectID": "index.html#curriculum-vitae",
+    "href": "index.html#curriculum-vitae",
+    "title": "Abderrahmane Wardi",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\nMy academic background, education, teaching experience, research activities, technical skills, and scientific work are presented in my curriculum vitae.\nView Curriculum Vitae"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Abderrahmane Wardi",
+    "section": "Contact",
+    "text": "Contact\nFor academic, research, teaching, scientific collaboration, or professional inquiries:\nContact"
   },
   {
     "objectID": "projects.html",
